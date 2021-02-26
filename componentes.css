@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#comp1 {
+    color: red;
+}
+
+#comp2 {
+    color: blue;
+}
